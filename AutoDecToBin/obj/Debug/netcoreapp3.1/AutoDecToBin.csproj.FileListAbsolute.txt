@@ -1,0 +1,13 @@
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\obj\Debug\netcoreapp3.1\AutoDecToBin.csprojAssemblyReference.cache
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\obj\Debug\netcoreapp3.1\AutoDecToBin.AssemblyInfoInputs.cache
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\obj\Debug\netcoreapp3.1\AutoDecToBin.AssemblyInfo.cs
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\obj\Debug\netcoreapp3.1\AutoDecToBin.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\bin\Debug\netcoreapp3.1\AutoDecToBin.exe
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\bin\Debug\netcoreapp3.1\AutoDecToBin.deps.json
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\bin\Debug\netcoreapp3.1\AutoDecToBin.runtimeconfig.json
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\bin\Debug\netcoreapp3.1\AutoDecToBin.runtimeconfig.dev.json
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\bin\Debug\netcoreapp3.1\AutoDecToBin.dll
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\bin\Debug\netcoreapp3.1\AutoDecToBin.pdb
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\obj\Debug\netcoreapp3.1\AutoDecToBin.dll
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\obj\Debug\netcoreapp3.1\AutoDecToBin.pdb
+C:\Users\Radek\source\repos\AutoDecToBin\AutoDecToBin\obj\Debug\netcoreapp3.1\AutoDecToBin.genruntimeconfig.cache
